@@ -41,3 +41,6 @@ I made a mini devboard that uses the RP2040 as the MCU. It is slightly bigger th
 | Y2                                             | Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm              | 1   | Crystal_GND3                | [Robu](https://robu.in/product/cm4012m00008001-huaxindianzi/)                                                                                                      |
 
 
+# Credits
+Kicad
+
