@@ -16,6 +16,12 @@ I made a mini devboard that uses the RP2040 as the MCU. It is slightly bigger th
 # PCB
 <img width="785" height="850" alt="image" src="https://github.com/user-attachments/assets/5c7ad17b-5978-4d17-a65c-44fe65cc2600" />
 
+# Firmware
+
+No firmware is needed, just hit upload to any sketch on Arduino IDE and it will built itself.
+
+
+
 #BOM
 
 
