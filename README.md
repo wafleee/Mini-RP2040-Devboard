@@ -42,5 +42,5 @@ I made a mini devboard that uses the RP2040 as the MCU. It is slightly bigger th
 
 
 # Credits
-Kicad
+Kicad - https://www.kicad.org/
 
