@@ -18,7 +18,7 @@ I made a mini devboard that uses the RP2040 as the MCU. It is slightly bigger th
 
 #BOM
 
-Here’s your BOM cleaned up into a readable table, with the component links preserved.
+
 
 | Designator                                     | Footprint                                               | Qty | Value                       | Link                                                                                                                                                               |
 | ---------------------------------------------- | ------------------------------------------------------- | --- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -40,4 +40,4 @@ Here’s your BOM cleaned up into a readable table, with the component links pre
 | U5                                             | SOT-23-6                                                | 1   | USBLC6-2SC6                 | [Robu](https://robu.in/product/usblc6-2sc6-ms-msksemi-4-5a-15v-150w-6v-5v-sot-23-6-esd-and-surge-protection-tvs-esd-rohs/)                                         |
 | Y2                                             | Crystal_SMD_Abracon_ABM8AIG-4Pin_3.2x2.5mm              | 1   | Crystal_GND3                | [Robu](https://robu.in/product/cm4012m00008001-huaxindianzi/)                                                                                                      |
 
-Total quantity: 35 components, including the WS2812B LED and excluding any extra components in multi-piece product packs.
+
